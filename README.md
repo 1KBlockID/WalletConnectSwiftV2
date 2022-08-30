@@ -22,7 +22,7 @@ Swift implementation of WalletConnect v.2 protocol for native iOS applications.
 Add .package(url:_:) to your Package.swift:
 ```Swift
 dependencies: [
-    .package(url: "https://github.com/WalletConnect/WalletConnectSwiftV2", .branch("BIDWalletConnect")),
+    .package(url: "https://github.com/1KBlockID/WalletConnectSwiftV2", .branch("BIDWalletConnect")),
 ],
 ```
 ## Example App
