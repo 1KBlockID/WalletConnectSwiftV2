@@ -6,7 +6,7 @@
 Swift implementation of WalletConnect v.2 protocol for native iOS applications.
 ## Requirements 
 - iOS 13
-- XCode 13
+- XCode 13.2.1
 - Swift 5
 
 ## Documentation & Usage
@@ -22,7 +22,7 @@ Swift implementation of WalletConnect v.2 protocol for native iOS applications.
 Add .package(url:_:) to your Package.swift:
 ```Swift
 dependencies: [
-    .package(url: "https://github.com/WalletConnect/WalletConnectSwiftV2", .branch("main")),
+    .package(url: "https://github.com/WalletConnect/WalletConnectSwiftV2", .branch("BIDWalletConnect")),
 ],
 ```
 ## Example App
